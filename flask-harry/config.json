@@ -1,0 +1,20 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql+pymysql://root:@localhost/firstattempt",
+    "prod_uri": "mysql+pymysql://root:@localhost/firstattempt",
+    "fb_url": "https://www.facebook.com/firstattempt",
+    "tw_url": "https://www.twitter.com/firstattempt",
+    "gt_url": "https://www.github.com/firstattempt",
+    "gmail-user": "mobapp.blue@gmail.com",
+    "gmail-pass": "mobapp1234",
+    "admin_user": "bhavya",
+    "admin_password": "jain",
+    "upload_folder": "C:\\Users\\Bhavya Jain\\PycharmProjects\\flask-harry\\static\\img",
+    "no_of_posts" : 2
+
+  }
+
+
+}
